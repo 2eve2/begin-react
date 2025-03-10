@@ -1,10 +1,10 @@
 import React from 'react';
 import './App.css';
-import Counter from './components/Counter';
+import InputSample from './components/InputSample';
 
 function App() {
   return (
-    <Counter/>
+    <InputSample />
   );
 }
 
